@@ -1,0 +1,14 @@
+c:\users\ugur_cihat\documents\visual studio 2015\Projects\console_sudoku\console_sudoku\bin\Debug\console_sudoku.exe.config
+c:\users\ugur_cihat\documents\visual studio 2015\Projects\console_sudoku\console_sudoku\obj\Debug\console_sudoku.csprojResolveAssemblyReference.cache
+c:\users\ugur_cihat\documents\visual studio 2015\Projects\console_sudoku\console_sudoku\obj\Debug\console_sudoku.Form1.resources
+c:\users\ugur_cihat\documents\visual studio 2015\Projects\console_sudoku\console_sudoku\obj\Debug\console_sudoku.Properties.Resources.resources
+c:\users\ugur_cihat\documents\visual studio 2015\Projects\console_sudoku\console_sudoku\obj\Debug\console_sudoku.csproj.GenerateResource.Cache
+c:\users\ugur_cihat\documents\visual studio 2015\Projects\console_sudoku\console_sudoku\bin\Debug\console_sudoku.exe
+c:\users\ugur_cihat\documents\visual studio 2015\Projects\console_sudoku\console_sudoku\bin\Debug\console_sudoku.pdb
+c:\users\ugur_cihat\documents\visual studio 2015\Projects\console_sudoku\console_sudoku\obj\Debug\console_sudoku.exe
+c:\users\ugur_cihat\documents\visual studio 2015\Projects\console_sudoku\console_sudoku\obj\Debug\console_sudoku.pdb
+C:\Users\Ugur_Cihat\documents\visual studio 2015\Projects\console_sudoku\console_sudoku\obj\Debug\console_sudoku.Form2.resources
+C:\Users\Ugur_Cihat\documents\visual studio 2015\Projects\console_sudoku\console_sudoku\obj\Debug\console_sudoku.Form3.resources
+C:\Users\ARBE\Desktop\console_sudoku\console_sudoku\console_sudoku\bin\Debug\console_sudoku.exe.config
+C:\Users\ARBE\Desktop\console_sudoku\console_sudoku\console_sudoku\obj\Debug\console_sudoku.exe
+C:\Users\ARBE\Desktop\console_sudoku\console_sudoku\console_sudoku\obj\Debug\console_sudoku.pdb
